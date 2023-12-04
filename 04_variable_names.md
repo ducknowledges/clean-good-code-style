@@ -9,7 +9,7 @@ result - arithmeticResult                   // результат арифмет
 
 sum - nodesValuesSum                        // сумма значений узлов связанного списка
 
-record - parsedDataChunk                    // элемент записи данных из разных источников данных
+record - parsedResourceChunk                // элемент записи данных из разных источников данных
 
 sum - hashCode                              // переменная хранящая результат вычесления хэша
 
